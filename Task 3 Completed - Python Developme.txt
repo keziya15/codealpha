@@ -1,0 +1,15 @@
+Task 3 Completed - Python Development Internship
+(Code Alpha)
+Project: Task Automation with Python Scripts
+I recently built a small but powerful Python automation script to simplify repetitive work.
+The project uses os, shutil, re, requests, and file handling to perform one of these tasks:
+📂 Move all .jpg files from one folder to another.
+
+📧 Extract all email addresses from a .txt file and save them separately.
+
+🌐 Scrape the title of a fixed webpage and store it for reference.
+
+This project demonstrates how a few lines of Python can save time, reduce manual work, and boost efficiency in real-life scenarios.
+GitHub for version control
+#CodeAlpha#PythonDevelopment#Automation #TaskAutomation #Programming #PythonProjects #FileHandling #WebScraping #DataExtraction
+
